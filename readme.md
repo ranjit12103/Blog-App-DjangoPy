@@ -2,7 +2,7 @@
 
 A full-featured Blog Web Application built using Django, supporting user authentication, blog post creation, media uploads, and complete CRUD operations with an intuitive UI.
 
-🔗 Live Demo: Click Here
+🔗 Live Demo: [Click Here](https://blog-app-django-lb3hszoew-ranjit-patils-projects-3ce486bd.vercel.app/)
 
 📌 Project Overview
 
